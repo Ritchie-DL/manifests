@@ -9,6 +9,7 @@
     <project name="DesignLibro/Firmware-RKSDK-kernel" path="sysdrv/source/kernel" />
     <project name="DesignLibro/Firmware-RKSDK-drv_ko" path="sysdrv/drv_ko" />
     <project name="DesignLibro/Firmware-RKSDK-sysdrv_tools" path="sysdrv/tools" />
+    <project name="DesignLibro/Firmware-RKSDK-idblock" path="sysdrv/tools/board/idb_bootconfig" />
     <project name="DesignLibro/Firmware-RKSDK-tools" path="tools" />
     <project name="DesignLibro/Firmware-RKSDK-toolchain" path="tools/linux/toolchain" />
     <project name="DesignLibro/Firmware-RKSDK-media" path="media" />
