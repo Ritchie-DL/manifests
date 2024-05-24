@@ -3,6 +3,6 @@
 	 <remote name="github" fetch=".." />
     <default revision="dl_rv1106" remote="github" sync-j="4" />
 
-    <project name="Firmware-RK-PrjCfg" path="project/cfg" revision="master" />
+    <project name="DesignLibro/Firmware-RK-PrjCfg" path="project/cfg" />
     
 </manifest>
