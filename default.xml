@@ -12,7 +12,7 @@
     <project name="DesignLibro/Firmware-RKSDK-sysdrv_tools" path="sysdrv/tools" />
     <project name="DesignLibro/Firmware-RKSDK-idblock" path="sysdrv/tools/board/idb_bootconfig" />
     <project name="DesignLibro/Firmware-RKSDK-tools" path="tools" />
-    <project name="DesignLibro/Firmware-RKSDK-toolchain" path="tools/linux/toolchain" />
+    <project name="DesignLibro/Firmware-RKSDK-toolchain" path="tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf" />
     <project name="DesignLibro/Firmware-RKSDK-media" path="media" />
 
 </manifest>
