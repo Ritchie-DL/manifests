@@ -4,6 +4,7 @@
     <default revision="dl_rv1106" remote="github" sync-j="4" />
 
     <project name="DesignLibro/Firmware-RKSDK-project_cfg" path="project/cfg" />
+    <project name="DesignLibro/Firmware-w_feeder" path="project/app/w_feeder" />
     <project name="DesignLibro/Firmware-RKSDK-sysdrv_cfg" path="sysdrv/" />
     <project name="DesignLibro/Firmware-RKSDK-uboot" path="sysdrv/source/uboot/u-boot" />
     <project name="DesignLibro/Firmware-RKSDK-rkbin" path="sysdrv/source/uboot/rkbin" />
